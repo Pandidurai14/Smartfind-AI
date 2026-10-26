@@ -1,0 +1,6 @@
+class CameraConfig:
+    DEFAULT_LIVE_SOURCE = 0  
+    FRAME_WIDTH = 640
+    FRAME_HEIGHT = 480
+    TARGET_FPS = 30
+    MAX_RETRIES = 5

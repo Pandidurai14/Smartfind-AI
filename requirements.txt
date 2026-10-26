@@ -1,0 +1,11 @@
+ultralytics
+insightface
+onnxruntime
+torch
+torchvision
+faiss-cpu
+opencv-python
+customtkinter
+Pillow
+scipy
+numpy
